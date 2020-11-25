@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 How to reach me: jiewei1999@qq.com
+
+## PROJECT
+
+* 🌱 机器学习算法实现：[my-ml](https://github.com/weijiew/my-ml) 尽量不借助任何库或者函数！
+* ⚡ 第一个个人独立完成的项目：[Library-Manage-System](https://github.com/weijiew/Library-Manage-System)
 
 ## PR
 
