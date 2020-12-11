@@ -1,7 +1,11 @@
+<div align="center">
+
 ### Hi there 👋
 
-<!--
-**weijiew/weijiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+</div>
+
+<!-- 
 
 Here are some ideas to get you started:
 
@@ -13,18 +17,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--->
+ -->
 
 <div align="center">
-## 📫 How to reach me: jiewei314@gmail.com
 
-[![https://weijiew.com](https://img.shields.io/badge/blog-https://weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=a29bfe)][website]
+## 🎯 TODO
+
+🙏 最近忙于期末考试以及结课作业。
+
+💥 正在构建新的 blog ，原 blog 暂停。
+
+## 📫 How to reach me
+
+[![jiewei314@gmail.com](https://img.shields.io/badge/email-jiewei314@gmail.com-blueviolet?style=for-the-badge&logo=google&color=fd79a8)][email]
+[![https://weijiew.com](https://img.shields.io/badge/blog-weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=6c5ce7)][website]
+[![https://www.zhihu.com/people/wei-jie-66-92](https://img.shields.io/badge/my-weijiew-blueviolet?style=for-the-badge&logo=zhihu&color=0984e3)][zhihu]
+
 
 ## 🌌 PROJECT
 
-* 🌱 机器学习算法实现：[my-ml](https://github.com/weijiew/my-ml) 尽量不借助任何库或者函数！
-* ⚡ 图书管理系统（第一个个人独立完成的项目）：[Library-Manage-System](https://github.com/weijiew/Library-Manage-System)
+ 🌱 机器学习算法实现：[my-ml](https://github.com/weijiew/my-ml) 尽量不借助任何库或者函数！
+
+ ⚡ 图书管理系统（第一个个人独立完成的项目）：[Library-Manage-System](https://github.com/weijiew/Library-Manage-System)
 
 ## 🔨 Languages and Tools 
 
@@ -55,12 +69,22 @@ Here are some ideas to get you started:
 <!-- ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white) -->
 
 
-## ⚡ Github Activity & Stats
+## 🎨 Github Activity & Stats
 
-- 🚗 [PR merge](https://github.com/heibaiying/BigData-Notes/commit/78397d938c3ce1c3613a25e9febece0988aa0e3a)
-- 💥 [PR merge](https://github.com/missing-semester-cn/missing-semester-cn.github.io/commit/752dad74cd816a5e6df088fff7b76df9d2f383bf)
-- 🍳 [PR merge](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/commit/74febe3c3bbc81e23786a664639b347f3c985f55)
-- 🥞 [PR merge](https://github.com/labuladong/fucking-algorithm/commit/0c57a909e3aeb90bdfc4b51f203196cb00f36f71) 
+ 🚗 [PR merge](https://github.com/heibaiying/BigData-Notes/commit/78397d938c3ce1c3613a25e9febece0988aa0e3a)
 
+ 💥 [PR merge](https://github.com/missing-semester-cn/missing-semester-cn.github.io/commit/752dad74cd816a5e6df088fff7b76df9d2f383bf)
+
+ 🍳 [PR merge](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/commit/74febe3c3bbc81e23786a664639b347f3c985f55)
+
+ 🥞 [PR merge](https://github.com/labuladong/fucking-algorithm/commit/0c57a909e3aeb90bdfc4b51f203196cb00f36f71) 
 
 ![](https://github-readme-stats.vercel.app/api?username=weijiew)
+
+</div>
+
+
+
+[website]: https://weijiew.com
+[email]: mailto:jiewei314@gmail.com
+[zhihu]: https://weijiew.com
