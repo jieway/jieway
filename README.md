@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 🙏 最近忙于期末考试以及结课作业。
 
-💥 正在构建新的 blog ，原 blog 暂停。
+💥 新 Blog 构建完成。
 
 ## 📫 How to reach me
 
-[![jiewei314@gmail.com](https://img.shields.io/badge/email-jiewei314@gmail.com-blueviolet?style=for-the-badge&logo=google&color=fd79a8)](mailto:jiewei314@gmail.com)
+<a href="mailto:jiewei314@gmail.com"><img src="https://img.shields.io/badge/email-jiewei314@gmail.com-blueviolet?style=for-the-badge&logo=google&color=fd79a8" alt="copyright"/></a>
+
 [![https://weijiew.com](https://img.shields.io/badge/blog-weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=6c5ce7)][website]
 [![https://www.zhihu.com/people/wei-jie-66-92](https://img.shields.io/badge/my-weijiew-blueviolet?style=for-the-badge&logo=zhihu&color=0984e3)][zhihu]
 
