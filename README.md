@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 🎯 TODO
-
-🙏 最近忙于期末考试以及结课作业。
-
-💥 新 Blog 构建完成。
-
 ## 📫 How to reach me
 
 <a href="mailto:jiewei314@gmail.com"><img src="https://img.shields.io/badge/email-jiewei314@gmail.com-blueviolet?style=for-the-badge&logo=google&color=fd79a8" alt="copyright"/></a>
@@ -81,4 +75,4 @@ Here are some ideas to get you started:
 
 [website]: https://weijiew.com
 [email]: mailto:jiewei314@gmail.com
-[zhihu]: https://weijiew.com
+[zhihu]: https://www.zhihu.com/people/wei-jie-66-92
