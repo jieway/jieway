@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 <a href="mailto:jiewei314@gmail.com"><img src="https://img.shields.io/badge/email-jiewei314@gmail.com-blueviolet?style=for-the-badge&logo=google&color=fd79a8" alt="copyright"/></a>
 
-[![https://weijiew.com](https://img.shields.io/badge/blog-weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=6c5ce7)][website]
-[![https://www.zhihu.com/people/wei-jie-66-92](https://img.shields.io/badge/my-weijiew-blueviolet?style=for-the-badge&logo=zhihu&color=0984e3)][zhihu]
+<a href="https://weijiew.com"><img src="https://img.shields.io/badge/blog-weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=6c5ce7" alt="copyright"/></a>
+
+<a href="https://www.zhihu.com/people/wei-jie-66-92"><img src="https://img.shields.io/badge/my-weijiew-blueviolet?style=for-the-badge&logo=zhihu&color=0984e3" alt="copyright"/></a>
 
 ## 🔨 Languages and Tools 
 
@@ -70,9 +71,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=weijiew)
 
 </div>
-
-
-
-[website]: https://weijiew.com
-[email]: mailto:jiewei314@gmail.com
-[zhihu]: https://www.zhihu.com/people/wei-jie-66-92
