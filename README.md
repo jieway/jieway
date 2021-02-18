@@ -1,10 +1,3 @@
-<div align="center">
-
-### Hi there 👋
-
-
-</div>
-
 <!-- 
 
 Here are some ideas to get you started:
@@ -27,35 +20,31 @@ Here are some ideas to get you started:
 
 <a href="https://weijiew.com"><img src="https://img.shields.io/badge/blog-weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=6c5ce7" alt="copyright"/></a>
 
-<a href="https://www.zhihu.com/people/wei-jie-66-92"><img src="https://img.shields.io/badge/my-weijiew-blueviolet?style=for-the-badge&logo=zhihu&color=0984e3" alt="copyright"/></a>
-
 ## 🔨 Languages and Tools 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23f05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=f7df1e)
-
-<!-- ![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) -->
-<!-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) -->
-<!-- ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white) -->
-<!-- ![Vuetify](https://img.shields.io/badge/vuetify-%231867c0.svg?&style=for-the-badge&logo=vuetify&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) -->
-<!-- ![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white) -->
-<!-- ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) -->
-<!-- ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) -->
-<!-- ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) -->
-<!-- ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) -->
-<!-- ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-<!-- ![RUST](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) -->
-<!-- ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) -->
-<!-- ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white) -->
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="copyright"/>
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="copyright"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="copyright"/>
+        <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" alt="copyright"/>
+        <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=f7df1e" alt="copyright"/>
+        <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="copyright"/>
+        <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+        <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+        <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+        <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+        <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+        <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+        <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/git-%23f05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="copyright"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="copyright"/>
+        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+        <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+        <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23F00000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
 ## 🎨 Github Activity & Stats
