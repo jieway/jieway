@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 ## 🎨 Github Activity & Stats
 
- 🚗 [PR merge](https://github.com/heibaiying/BigData-Notes/commit/78397d938c3ce1c3613a25e9febece0988aa0e3a)
- 💥 [PR merge](https://github.com/missing-semester-cn/missing-semester-cn.github.io/commit/752dad74cd816a5e6df088fff7b76df9d2f383bf)
- 🍳 [PR merge](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/commit/74febe3c3bbc81e23786a664639b347f3c985f55)
- 🥞 [PR merge](https://github.com/labuladong/fucking-algorithm/commit/0c57a909e3aeb90bdfc4b51f203196cb00f36f71) 
+ 🚗 [typo](https://github.com/heibaiying/BigData-Notes/commit/78397d938c3ce1c3613a25e9febece0988aa0e3a)
+ 💥 [typo](https://github.com/missing-semester-cn/missing-semester-cn.github.io/commit/752dad74cd816a5e6df088fff7b76df9d2f383bf)
+ 🍳 [fix bug](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/commit/74febe3c3bbc81e23786a664639b347f3c985f55)
+ 🥞 [update java lcs](https://github.com/labuladong/fucking-algorithm/commit/0c57a909e3aeb90bdfc4b51f203196cb00f36f71) 
 
 ![](https://github-readme-stats.vercel.app/api?username=weijiew)
 
