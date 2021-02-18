@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://weijiew.com"><img src="https://img.shields.io/badge/blog-weijiew.com-blueviolet?style=for-the-badge&logo=vercel&color=6c5ce7" alt="copyright"/></a>
 
 ## 🔨 Languages and Tools 
-
+<a>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="copyright"/>
         <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="copyright"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="copyright"/>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
         <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23F00000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-
+</a>
 ## 🎨 Github Activity & Stats
 
  🚗 [PR merge](https://github.com/heibaiying/BigData-Notes/commit/78397d938c3ce1c3613a25e9febece0988aa0e3a)
