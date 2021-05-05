@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Structure,Computer Network,Operation System and Principles of Computer Organization**
 
-- 👨‍💻 All of my projects are available at [weijiew.com](weijiew.com)
+- 👨‍💻 All of my projects are available at [weijiew.com](https://weijiew.com)
 
-- 📝 I regularly write articles on [blog.weijiew.com](blog.weijiew.com)
+- 📝 I regularly write articles on [blog.weijiew.com](https://blog.weijiew.com)
 
 - 📫 How to reach me **jiewei314@gmail.com**
 
