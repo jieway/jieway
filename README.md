@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm weijiew</h1>
+<h1 align="center">Hi 👋, I'm Jie Wei</h1>
 <h3 align="center">A student of data science and big data technology.</h3>
 
 - 🔭 I’m currently working on [CS:APP](https://github.com/weijiew/CSAPP-Labs)
