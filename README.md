@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jie Wei</h1>
 <h3 align="center">A student of data science and big data technology.</h3>
 
-- 🔭 I’m currently working on [CS:APP](https://github.com/weijiew/CSAPP-Labs)
+- 🔭 I’m currently working on 6.830
 
 - 🌱 I’m currently learning **Data Structure,Computer Network,Operation System and Principles of Computer Organization**
 
