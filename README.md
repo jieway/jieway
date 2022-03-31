@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [weijiew.github.io](https://weijiew.github.io/)
 
-- 📫 How to reach me **jiewei314@gmail.com**
+- 📫 How to reach me **jiewei1999@foxmail.com**
 
 [![Zephyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=weijiew&show_icons=true&theme=algolia&hide_title=true)
 ](https://github.com/anuraghazra/github-readme-stats)
